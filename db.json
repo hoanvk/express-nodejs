@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "01-day-normal",
+      "title": "Bao hiem suc khoe thong thuong"
+    },
+    {
+      "id": 2,
+      "name": "01-day-golfer",
+      "title": "Bao hiem danh golf"
+    },
+    {
+      "id": 3,
+      "name": "01-day-motor",
+      "title": "Bao hiem tai nan motor"
+    },
+    {
+      "id": 3,
+      "name": "Benefit 4",
+      "title": "Personal Accident"
+    },
+    {
+      "id": "jtwVnYkj",
+      "name": "ABN70221",
+      "title": "3 Tháng"
+    }
+  ]
+}
